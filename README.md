@@ -1,6 +1,6 @@
 # Horiseon
 
-# Adding semantic HTML elements
+## Adding semantic HTML elements
 -<div> soup
 - We focused on creating more user friendly semantic elements such as:
     <header>
